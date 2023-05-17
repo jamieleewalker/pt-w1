@@ -36,7 +36,7 @@ public class Week01VariablesAndOperationsLab {
 		
 		// 6. Create a variable to hold a street address
 		
-		 String streetAddress = "3 walker creek road";
+		 String streetAddress = "3 walker road";
 		 
 		// 7. Print all variables to the console
 	

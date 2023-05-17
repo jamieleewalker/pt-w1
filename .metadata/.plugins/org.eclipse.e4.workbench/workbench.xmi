@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_3tsS0OeBEe2XdPRvHa1SLg" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_3tsS0eeBEe2XdPRvHa1SLg" bindingContexts="_3ts7pOeBEe2XdPRvHa1SLg">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Week02BooleanConditionalsLoopsLab.java&quot; tooltip=&quot;labs/src/week02/Week02BooleanConditionalsLoopsLab.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/labs/src/week02/Week02BooleanConditionalsLoopsLab.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Week01VariablesAndOperationsLab.java&quot; tooltip=&quot;labs/src/week1/Week01VariablesAndOperationsLab.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/labs/src/week1/Week01VariablesAndOperationsLab.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;week2BooleanConditionalsloopslab.java&quot; tooltip=&quot;labs/src/week2/week2BooleanConditionalsloopslab.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/labs/src/week2/week2BooleanConditionalsloopslab.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Week01VariablesAndOperationsLab.java&quot; tooltip=&quot;labs/src/week1/Week01VariablesAndOperationsLab.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/labs/src/week1/Week01VariablesAndOperationsLab.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Week02BooleanConditionalsLoopsLab.java&quot; tooltip=&quot;labs/src/week02/Week02BooleanConditionalsLoopsLab.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/labs/src/week02/Week02BooleanConditionalsLoopsLab.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;week2BooleanConditionalsloopslab.java&quot; tooltip=&quot;labs/src/week2/week2BooleanConditionalsloopslab.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/labs/src/week2/week2BooleanConditionalsloopslab.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_3tsS0eeBEe2XdPRvHa1SLg" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_3tsS0ueBEe2XdPRvHa1SLg" label="%trimmedwindow.label.eclipseSDK" x="-8" y="0" width="1603" height="1038">
     <persistedState key="coolBarVisible" value="true"/>
@@ -10,6 +10,7 @@
     <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workingSets/>"/>
     <persistedState key="aggregateWorkingSetId" value="Aggregate for window 1682881283884"/>
     <tags>topLevel</tags>
+    <tags>shellMaximized</tags>
     <children xsi:type="basic:PartSashContainer" xmi:id="_3tsS0ueBEe2XdPRvHa1SLg" selectedElement="_3tsS0-eBEe2XdPRvHa1SLg" horizontal="true">
       <children xsi:type="advanced:PerspectiveStack" xmi:id="_3tsS0-eBEe2XdPRvHa1SLg" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_3tsS1OeBEe2XdPRvHa1SLg">
         <children xsi:type="advanced:Perspective" xmi:id="_3tsS1OeBEe2XdPRvHa1SLg" elementId="org.eclipse.jdt.ui.JavaPerspective" selectedElement="_3tsS1eeBEe2XdPRvHa1SLg" label="Java" iconURI="platform:/plugin/org.eclipse.jdt.ui/$nl$/icons/full/eview16/jperspective.png">
@@ -70,10 +71,11 @@
           <tags>persp.newWizSC:org.eclipse.jdt.junit.wizards.NewTestCaseCreationWizard</tags>
           <tags>persp.actionSet:org.eclipse.jdt.junit.JUnitActionSet</tags>
           <tags>persp.viewSC:org.eclipse.ant.ui.views.AntView</tags>
-          <children xsi:type="basic:PartSashContainer" xmi:id="_3tsS1eeBEe2XdPRvHa1SLg" selectedElement="_3tsS3ueBEe2XdPRvHa1SLg" horizontal="true">
+          <children xsi:type="basic:PartSashContainer" xmi:id="_3tsS1eeBEe2XdPRvHa1SLg" selectedElement="_3tsS1ueBEe2XdPRvHa1SLg" horizontal="true">
             <children xsi:type="basic:PartSashContainer" xmi:id="_3tsS1ueBEe2XdPRvHa1SLg" containerData="1711" selectedElement="_3tsS1-eBEe2XdPRvHa1SLg">
               <children xsi:type="basic:PartStack" xmi:id="_3tsS1-eBEe2XdPRvHa1SLg" elementId="left" containerData="6000" selectedElement="_3tsS2OeBEe2XdPRvHa1SLg">
                 <tags>org.eclipse.e4.primaryNavigationStack</tags>
+                <tags>active</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_3tsS2OeBEe2XdPRvHa1SLg" elementId="org.eclipse.jdt.ui.PackageExplorer" ref="_3tsVJueBEe2XdPRvHa1SLg" closeable="true">
                   <tags>View</tags>
                   <tags>categoryTag:Java</tags>
@@ -205,16 +207,9 @@
       <children xsi:type="basic:PartStack" xmi:id="_3tsU1OeBEe2XdPRvHa1SLg" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_3tsVJeeBEe2XdPRvHa1SLg">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
-        <tags>active</tags>
         <children xsi:type="advanced:Placeholder" xmi:id="_3tsVJeeBEe2XdPRvHa1SLg" elementId="org.eclipse.ui.console.ConsoleView" ref="_3tsVpeeBEe2XdPRvHa1SLg" closeable="true">
           <tags>View</tags>
           <tags>categoryTag:General</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_ZX1-wOh-Ee2w2ccvT6ezvg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Week02BooleanConditionalsLoopsLab.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Week02BooleanConditionalsLoopsLab.java&quot; partName=&quot;Week02BooleanConditionalsLoopsLab.java&quot; title=&quot;Week02BooleanConditionalsLoopsLab.java&quot; tooltip=&quot;labs/src/week02/Week02BooleanConditionalsLoopsLab.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/labs/src/week02/Week02BooleanConditionalsLoopsLab.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;2733&quot; selectionTopPixel=&quot;1019&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>removeOnHide</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
         </children>
       </children>
     </sharedElements>
@@ -224,6 +219,8 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view group_libraries=&quot;1&quot; layout=&quot;2&quot; linkWithEditor=&quot;0&quot; rootMode=&quot;1&quot; workingSetName=&quot;Aggregate for window 1682873082227&quot;>&#xD;&#xA;&lt;customFilters userDefinedPatternsEnabled=&quot;false&quot;>&#xD;&#xA;&lt;xmlDefinedFilters>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.StaticsFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.buildship.ui.packageexplorer.filter.gradle.buildfolder&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.m2e.MavenModuleFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.buildship.ui.packageexplorer.filter.gradle.subProject&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.DeprecatedMembersFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter&quot; isEnabled=&quot;true&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LibraryFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.FieldsFilter&quot; isEnabled=&quot;false&quot;/>&#xD;&#xA;&lt;/xmlDefinedFilters>&#xD;&#xA;&lt;/customFilters>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:Java</tags>
+      <tags>active</tags>
+      <tags>activeOnClose</tags>
       <menus xmi:id="_3tsVJ-eBEe2XdPRvHa1SLg" elementId="org.eclipse.jdt.ui.PackageExplorer">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -290,8 +287,6 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
-      <tags>active</tags>
-      <tags>activeOnClose</tags>
       <menus xmi:id="_3tsVpueBEe2XdPRvHa1SLg" elementId="org.eclipse.ui.console.ConsoleView">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -371,7 +366,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_3tsV0-eBEe2XdPRvHa1SLg" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_0pNwIOh8Ee2w2ccvT6ezvg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_3tuIeueBEe2XdPRvHa1SLg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_2UZkd_EgEe2_Qd1DXoq7vA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_3tuIeueBEe2XdPRvHa1SLg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_3tsV4OeBEe2XdPRvHa1SLg" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -402,7 +397,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_3ts6F-eBEe2XdPRvHa1SLg" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_0pRagOh8Ee2w2ccvT6ezvg" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_3ttk1-eBEe2XdPRvHa1SLg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_2UZkhPEgEe2_Qd1DXoq7vA" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_3ttk1-eBEe2XdPRvHa1SLg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_3ts6I-eBEe2XdPRvHa1SLg" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
